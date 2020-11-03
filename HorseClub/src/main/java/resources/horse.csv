@@ -1,0 +1,1 @@
+Mare{horseInfo=HorseInfo{name='Leo', wasBorn=Sat Oct 31 01:37:17 MSK 2020, specialization=HOBBY, pedigree=Pedigree{mother=null, father=null}, ammunition=Ammunition{bridle=Bridle{size=FULL, bridleType=UNIVERSAL, number=1}, saddle=Saddle{size=12.5, saddleType=DRESSAGE, number=1}}, horseSuit=BROWN}, isCanBePregnant=false, isPregnant=false}
